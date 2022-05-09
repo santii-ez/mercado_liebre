@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap');
+
+header {
+    background-color: #EAC926;
+    font-family: 'Roboto', sans-serif;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+h5 {
+    font-size: 16px;
+}
+
+h6 {
+    font-size: 18px;
+}
+
+.burguer-menu i {
+    background-color: #03264C;
+    padding: 10px;
+    border-radius: 5%;
+    color: white;
+}
+
+.burguer-menu {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
+.iconos-footer {
+    color: #03264C;
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+p {
+    font-size: 12px;
+}
+
