@@ -69,3 +69,11 @@ footer ul{
 p {
     font-size: 12px;
 }
+
+/* animaciones */
+.send:hover {
+    background-color: #0022AA;
+}
+.iconos-footer:hover {
+    color: #1284ba;
+}
